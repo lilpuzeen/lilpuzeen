@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Arman Tovmasyan!
-- 👀 I’m mostly interested in Python Developing and ML Engineering
+- 👀 I’m mostly interested in Python Backend Developing
 - 🌱 I’m currently learning Computer Science in ITMO University
-- 💞️ I’m looking to collaborate on ML and Data Science contests
+- 💞️ I’m looking to collaborate in different Python-based projects
 - 📫 How to reach me: Telegram => @lilpuzeen
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilpuzeen)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
 
 <!---
