@@ -11,6 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
 
+### 👨🏻‍💻 Languages and Tools <br />
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/python.png"></code>
