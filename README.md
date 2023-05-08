@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate in different Python-based projects
 - 📫 How to reach me: Telegram => @lilpuzeen
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilpuzeen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilpuzeen)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
 
 <!---
