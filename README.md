@@ -1,8 +1,13 @@
 👋 Hi, I’m Arman Tovmasyan!
+
 👀 I’m mostly interested in Python Backend Developing
+
 🌱 I’m currently studying Computer Science at ITMO University
+
 💞️ I’m looking to collaborate in different Python-based projects
+
 📫 How to reach me: Telegram => @lilpuzeen
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
 
