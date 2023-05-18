@@ -41,6 +41,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/heroku.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postman.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/selenium.webp"></code>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilpuzeen&show_icons=true&bg_color=00000000)
