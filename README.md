@@ -1,7 +1,7 @@
 ### 👨🏻‍🎓 About me <br />
 👋 Hi, I’m Arman Tovmasyan!
 
-👀 I’m mostly interested in Python Backend Developing
+👀 I’m mostly interested in Python Backend Developing and ML/DS R&D
 
 🌱 I’m currently studying Computer Science at ITMO University
 
@@ -43,10 +43,3 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/heroku.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postman.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/selenium.webp"></code>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilpuzeen&show_icons=true&bg_color=00000000)
-<!---
-lilpuzeen/lilpuzeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
