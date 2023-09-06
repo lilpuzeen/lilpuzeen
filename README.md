@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate in different Python-based projects
 
-📫 How to reach me: Telegram => @lilpuzeen
+📫 How to reach me: Telegram -> @lilpuzeen
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
@@ -34,6 +34,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/microsoftsql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/redis.png"></code>
 
 **Tools**
 
