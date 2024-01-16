@@ -41,5 +41,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/heroku.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/awsec2.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postman.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/selenium.webp"></code>
