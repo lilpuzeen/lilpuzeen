@@ -24,7 +24,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/html5.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/tailwind-css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/jinja-logo.webp"></code>
 
