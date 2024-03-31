@@ -32,7 +32,6 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/microsoftsql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/redis.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/s3.svg"></code>
 
