@@ -17,6 +17,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/fastapi.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/celery.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/flask.png"></code>
 
 **Databases**
@@ -24,12 +25,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/redis.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/Mongo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/MongoDB.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/s3.svg"></code>
 
 **Tools**
 
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/Kubernetes.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/Aws.png"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/AWS.svg"></code>
