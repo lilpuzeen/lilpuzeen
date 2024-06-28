@@ -33,4 +33,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/Kubernetes.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/AWS.svg"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/AWS.svg"></code>
