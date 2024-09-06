@@ -5,7 +5,7 @@
 
 🌱 I’m currently studying Computer Science at ITMO University
 
-📫 How to reach me: Telegram -> @lilpuzeen
+📫 How to reach me: Telegram -> @aetovmasyan
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lilpuzeen)
