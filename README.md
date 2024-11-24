@@ -1,7 +1,7 @@
 ### 👨🏻‍🎓 About me <br />
 👋 Hi, I’m Arman Tovmasyan!
 
-👀 I’m mostly interested in Python Backend Developing and ML/DS R&D
+👀 I’m mostly interested in Python Backend Developing and DE
 
 🌱 I’m currently studying Computer Science at ITMO University
 
